@@ -1,0 +1,6 @@
+100 Jones    24.98
+101 Doe      14.98
+102 Mensah   20.98
+300 Williams 0.00
+103 Adole    20.98
+104 Asiedu   20.00
